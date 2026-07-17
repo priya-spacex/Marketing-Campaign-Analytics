@@ -41,7 +41,6 @@ Raw enterprise marketing records are rarely formatted perfectly for statistical 
    $$\text{CPC} = \frac{\text{Acquisition\_Cost}}{\text{Clicks}}$$
 6. **Cost Per Acquisition (CPA):** Built a macro-efficiency indicator isolating the total dollar amount required to capture one paying consumer while using conditional safeguards (`np.where`) to prevent runtime division-by-zero errors.
    $$\text{CPA} = \frac{\text{Acquisition\_Cost}}{\text{Total Conversions}}$$
-
 ---
 
 ## 📈 Key Insights & Strategic Discoveries
