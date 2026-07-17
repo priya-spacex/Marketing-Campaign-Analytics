@@ -36,12 +36,13 @@ Raw enterprise marketing records are rarely formatted perfectly for statistical 
 3. **Engagement Rate (ER):** Engineered the interaction ratio tracking how effectively visibility translates to direct user clicks.
    $$\text{Engagement Rate} = \left(\frac{\text{Clicks}}{\text{Impressions}}\right) \times 100$$
 4. **Total Conversions Delivered:** Calculated the volume of users successfully converted based on click rates and conversion margins.
-   $$\text{Total Conversions} = \text{Clicks} \times \text{Conversion\_Rate}$$
+   $$\text{Total Conversions} = \text{Clicks} \times \text{Conversion Rate}$$
+
 5. **Cost Per Click (CPC):** Safely mapped the micro-unit marketing budget spent to generate a single user action.
-   $$\text{CPC} = \frac{\text{Acquisition\_Cost}}{\text{Clicks}}$$
+   $$\text{CPC} = \frac{\text{Acquisition Cost}}{\text{Clicks}}$$
+
 6. **Cost Per Acquisition (CPA):** Built a macro-efficiency indicator isolating the total dollar amount required to capture one paying consumer while using conditional safeguards (`np.where`) to prevent runtime division-by-zero errors.
-   $$\text{CPA} = \frac{\text{Acquisition\_Cost}}{\text{Total Conversions}}$$
----
+   $$\text{CPA} = \frac{\text{Acquisition Cost}}{\text{Total Conversions}}$$
 
 ## 📈 Key Insights & Strategic Discoveries
 
